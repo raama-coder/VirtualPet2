@@ -10,8 +10,8 @@ var lastFed
 var milk
 
 function preload(){
-  dogImg = loadImage("images/dog.png")
-  happyDogImg = loadImage("images/happyDog.png")
+  dogImg = loadImage("images/Dog.png")
+  happyDogImg = loadImage("images/happydog.png")
 }
 
 function setup() {
